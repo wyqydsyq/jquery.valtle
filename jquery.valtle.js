@@ -1,3 +1,4 @@
+// https://github.com/pyrokinetic/jquery.valtle
 (function( $ ) {
     $.fn.valtle = function() {
 		$(this).each(function(){	
