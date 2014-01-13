@@ -9,6 +9,6 @@ Valtle somewhat emulates the `placeholder` attribute for input elements. It take
 Useage
 ------------
 
-1) Include `jquery.valtle.js` into your page by whatever method (`<script>` tag, Require.JS etc.) you prefer.
-2) Call `$('#selector').valtle();` with a selector to match whatever elements you want it applied to.
-3) The values of the `title` attribute on any elements that match the selector will be used as placeholder text.
+1. Include `jquery.valtle.js` into your page by whatever method (`<script>` tag, Require.JS etc.) you prefer.
+2. Call `$('#selector').valtle();` with a selector to match whatever elements you want it applied to.
+3. The values of the `title` attribute on any elements that match the selector will be used as placeholder text.
